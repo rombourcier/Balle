@@ -1,0 +1,14 @@
+﻿  Balle.cpp
+f:\o3d\sfml\sfml\balle.cpp(14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\o3d\sfml\sfml\balle.cpp(52): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+f:\o3d\sfml\sfml\balle.cpp(52): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+f:\o3d\sfml\sfml\balle.cpp(52): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+  main.cpp
+f:\o3d\sfml\sfml\main.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\o3d\sfml\sfml\main.cpp(38): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+f:\o3d\sfml\sfml\main.cpp(17): warning C4390: ';': empty controlled statement found; is this the intent?
+f:\o3d\sfml\sfml\main.cpp(22): warning C4101: 'angle': unreferenced local variable
+  Generating code
+  All 220 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML.vcxproj -> F:\O3d\SFML\x64\Release\SFML.exe

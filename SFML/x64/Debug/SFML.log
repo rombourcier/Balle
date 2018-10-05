@@ -1,0 +1,7 @@
+﻿  main.cpp
+f:\o3d\sfml\sfml\main.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\o3d\sfml\sfml\main.cpp(43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\o3d\sfml\sfml\main.cpp(26): warning C4390: ';': empty controlled statement found; is this the intent?
+f:\o3d\sfml\sfml\main.cpp(31): warning C4101: 'angle': unreferenced local variable
+f:\o3d\sfml\sfml\main.cpp(11): warning C4930: 'sf::CircleShape TRex(void)': prototyped function not called (was a variable definition intended?)
+  SFML.vcxproj -> F:\O3d\SFML\x64\Debug\SFML.exe
